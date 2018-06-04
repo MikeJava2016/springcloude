@@ -5,6 +5,8 @@ public class Test {
 		System.out.println("java");
 		
 		int i = 100;
+		
+		System.out.println(123);
  
 	}
 }
