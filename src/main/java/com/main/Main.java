@@ -16,6 +16,7 @@ public class Main {
 		}
 		context.close();
 		
+<<<<<<< HEAD
 		System.out.println("12321074");
 		
 		System.out.println("12321074");
