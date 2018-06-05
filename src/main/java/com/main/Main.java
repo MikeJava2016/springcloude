@@ -17,5 +17,10 @@ public class Main {
 		context.close();
 		
 	System.out.println("java");
+		System.out.println("java");
+		System.out.println("java");
+		System.out.println("java");System.out.println("java");
+		
+		
 	}
 }
